@@ -24,7 +24,7 @@ function App() { // componate which allows html. // this will show up on the pag
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello there! :)
+          Hello :)
         </a>
       </header>
     </div>
